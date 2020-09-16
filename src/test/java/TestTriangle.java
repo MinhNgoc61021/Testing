@@ -2,6 +2,8 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class TestTriangle {
+
+    // Viết thêm test case vào
     @Test
     public void isEquilateralTriangle() {
         int result = Triangle.triangleType(2, 2 ,2);
